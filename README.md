@@ -10,7 +10,7 @@ Each section of the project demonstrates different aspects of HTML:
 - **Links & Images** - Demonstrating `<a>` for hyperlinks and `<img>` for adding images.
 - **Lists & Tables** - Implementing ordered (`<ol>`), unordered (`<ul>`), and definition lists, as well as structured data tables using `<table>`.
 - **Forms & Inputs** - Using `<form>`, `<input>`, `<label>`, and other elements to collect user data.
-- **Semantic HTML** - Understanding elements like `<article>`, `<section>`, `<nav>`, `<aside>`, and `<footer>` for better page structure.
+- **Semantic HTML** - Understanding elements like `<article>`, `<section>`, `<nav>`, `<aside>`, and `<footer>` for better page structure
 - **Multimedia Support** - Embedding videos and audio using `<video>` and `<audio>`.
 - **Responsive Design** - Using the `<meta viewport>` tag for mobile-friendly layouts
 
