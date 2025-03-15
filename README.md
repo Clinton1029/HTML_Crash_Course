@@ -22,7 +22,7 @@ Follow these steps to use the project:
    cd HTML_Crash_Course
    ```
 2. **Open `index.html` in a browser** to see the HTML in action
-3. **Edit files** in any text editor to experiment with different HTML elements and features.
+3. **Edit files** in any text editor to experiment with different HTML elements and features
 
 ## Project Structure
 ```
